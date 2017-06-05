@@ -1,4 +1,3 @@
 # Disaster-of-light-Demo
-# newstep!
-#dol
+# /VoxelEdition/Scenes/JS/VoxelEdition.scene
 # dol
